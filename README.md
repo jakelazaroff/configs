@@ -4,4 +4,5 @@ Configuration and other miscellaneous files I tend to copy and paste between pro
 
 - [Biome](/biome.jsonc)
 - [CSS Reset](/reset.css)
+- [Ghostty](/ghostty)
 - [Prettier](/.prettierrc)
