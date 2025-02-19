@@ -6,6 +6,11 @@
     "soft_wrap": "preferred_line_length",
     "preferred_line_length": 100,
     "tab_size": 2,
+    "tabs": {
+        "close_position": "left",
+        "file_icons": true,
+        "git_status": true
+      },
     "theme": {
       "mode": "system",
       "light": "Catppuccin Macchiato",
