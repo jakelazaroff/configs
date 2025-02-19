@@ -6,3 +6,4 @@ Configuration and other miscellaneous files I tend to copy and paste between pro
 - [CSS Reset](/reset.css)
 - [Ghostty](/ghostty)
 - [Prettier](/.prettierrc)
+- [Zed](./zed.json)
