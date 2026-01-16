@@ -1,20 +1,17 @@
 {
-    "features": {
-      "edit_prediction_provider": "zed"
-    },
-    "buffer_font_family": "Ellograph CF",
-    "soft_wrap": "preferred_line_length",
-    "preferred_line_length": 100,
-    "tab_size": 2,
-    "tabs": {
-        "close_position": "left",
-        "file_icons": true,
-        "git_status": true
-      },
-    "theme": {
-      "mode": "system",
-      "light": "Catppuccin Macchiato",
-      "dark": "Catppuccin Latte"
-    }
+  "show_edit_predictions": false,
+  "buffer_font_family": "Ellograph CF",
+  "soft_wrap": "preferred_line_length",
+  "preferred_line_length": 100,
+  "tab_size": 2,
+  "tabs": {
+    "close_position": "left",
+    "file_icons": true,
+    "git_status": true
+  },
+  "theme": {
+    "mode": "system",
+    "light": "Catppuccin Macchiato",
+    "dark": "Catppuccin Latte"
   }
-  
+}
